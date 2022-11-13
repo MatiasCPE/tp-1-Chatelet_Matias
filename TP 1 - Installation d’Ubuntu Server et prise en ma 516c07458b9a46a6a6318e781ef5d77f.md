@@ -84,4 +84,4 @@ précédemment.
 2. Il faut décommenter la ligne « **force_color_prompt=yes** » puis enregistrer et quittez le fichier nano avec *Ctrl + X* et ensuite *Y*.
 3. Personnalisation :
 
-![prompt.png](TP%201%20-%20Installation%20d%E2%80%99Ubuntu%20Server%20et%20prise%20en%20ma%20516c07458b9a46a6a6318e781ef5d77f/prompt.png)
+![prompt.png](assets/prompt.png)
